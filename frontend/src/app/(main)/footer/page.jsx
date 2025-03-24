@@ -17,7 +17,7 @@ const footer = () => {
                         >
                             EaseMail.ai
                         </a>
-                        <p > ©️ 2025 All right reserved </p>
+                        <p > ©2025 All right reserved </p>
                     </div>
                     {/* End Col */}
                     <ul className="text-center">
